@@ -16,7 +16,9 @@ I still don't know if this project is going to be a PHP Class to be used as a "h
 a stand-alone application.
 
 
-![Anatomy_input_field_legend_1](https://user-images.githubusercontent.com/48808238/127162350-eecdc2e2-e0d0-4a18-9d79-5046726500d8.png)
+| ![space-1.jpg](https://user-images.githubusercontent.com/48808238/127162350-eecdc2e2-e0d0-4a18-9d79-5046726500d8.png) | 
+|:--:| 
+| *Anatomy of an INPUT FIELD* |
 
 My idea, opposite to form's building via tipycal:   __$this.form->addField(input [type], [attribute = {param}]...)__ is to let the designer using a visual
 interface (Drag & Drop) to quickly mock-up the desired form's appearance.
