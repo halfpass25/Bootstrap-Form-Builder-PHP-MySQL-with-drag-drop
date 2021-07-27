@@ -1,5 +1,6 @@
 
 # Bootstrap's Form Builder (PHP and  MySQL database)
+### TABLE OF CONTENT ###
 
 ## ABSTRACT ##
 Building (coding) by hand HTML forms, regardless if HTML/CSS or Bootstrap “#” based, is an everyday need but it can be a tedious, cumbersome and some time dangerous activity (you can easily forget validation on a field or you can be wrong at stating validation rules, for instance).
@@ -27,3 +28,6 @@ I can here you "the edit can be done manually into HTML" and you are right but h
 for a much easier re-use, since you have all of your forms into a central repository (the db).
 
 Currently (2021-07-27) I'm collecting data and refining requirements, please feel free to comment about the whole idea ;)
+
+
+#What does it take to be done?
