@@ -89,7 +89,7 @@ Bootstrap includes support for all standard HTML form controls as well as __new
 * &lt;input type="datetime-local"&gt;
 * &lt;input type="email"&gt;
 * &lt;input type="file"&gt;
-* &i;input type="hidden"&gt;
+* &lt;input type="hidden"&gt;
 * &lt;input type="image"&gt;
 * &lt;input type="month"&gt;
 * &lt;input type="number"&gt;
