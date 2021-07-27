@@ -54,3 +54,28 @@ __5)__ as for future expansion/improvent, keeping the parameters as standard as 
 
 
 
+### 1- The Front-End ###
+ Since the amount of  required fields and type of form can vary each time, it is advisable to have the front-end being as simple as possible and less cluttered as possible.
+To achieve this goal, probably the best solution consists in using a “clonable row” (will require Jquery).
+This will allow the designer to have the scrren populated only with the fields he creates/customize without a plethora of additional rows in the middle.
+Not only, but it will be possible both to add and/or remove each single row without impacting the automation of the form’s building.
+Each added row will be comprised of a number of field, to specify values for a given form-element’s attribute.
+
+### 2- The database ###
+ The structure for the recurring table, can be defined only once Step 1 has been carried out and all form-elements attribute have been listed.
+(What if we are having two elements of the same type but with different attribute’s values?...)
+
+
+
+### 3- The PHP Code/Class ###
+
+### 4- Basic Bootstrap boilerplates ###
+A basic HTML page has to be rendered at the end of the process.
+Further styling will be added manually.
+The basic boilerplate therefore should probably include only HTML 5 tags, the opening and closing of the FORM tag and the type of form (Horiz, Vert, Inline).
+Other tags for other form-elements will be added dinamically into the boilerplateby means of the class methods.
+
+
+Bootstrap includes support for all standard HTML form controls as well as new HTML5 input types such as datetime, number, email, url, search, range, color, url, and so on. 
+
+
