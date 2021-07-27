@@ -66,6 +66,7 @@ A further improvement is a visual Drag & Drop interface that will allow for visu
 ### 2- The database ###
  The structure for the recurring table, can be defined only once Step 1 has been carried out and all form-elements attribute have been listed.
 (What if we are having two elements of the same type but with different attribute’s values?...)
+Of course, the database will hold also one or more data-table/s to store parameter's names which on its turn will populate combo-boxes of the clonable row.
 
 
 
