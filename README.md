@@ -88,21 +88,21 @@ Bootstrap includes support for all standard HTML form controls as well as __new
 * &lt;input type="date"&gt;
 * &lt;input type="datetime-local"&gt;
 * &lt;input type="email"&gt;
-&lt;input type="file"&gt;
-&i;input type="hidden"&gt;
-&lt;input type="image"&gt;
-&lt;input type="month"&gt;
-&lt;input type="number"&gt;
-&lt;input type="password"&gt;
-&lt;input type="radio"&gt;
-&lt;input type="range"&gt;
-&lt;input type="reset"&gt;
-&lt;input type="search"&gt;
-&lt;input type="submit"&gt;
-&lt;input type="tel"&gt;
-&lt;input type="text"&gt;
-&lt;input type="url"&gt;
-&lt;input type="week"&gt;
+* &lt;input type="file"&gt;
+* &i;input type="hidden"&gt;
+* &lt;input type="image"&gt;
+* &lt;input type="month"&gt;
+* &lt;input type="number"&gt;
+* &lt;input type="password"&gt;
+* &lt;input type="radio"&gt;
+* &lt;input type="range"&gt;
+* &lt;input type="reset"&gt;
+* &lt;input type="search"&gt;
+* &lt;input type="submit"&gt;
+* &lt;input type="tel"&gt;
+* &lt;input type="text"&gt;
+* &lt;input type="url"&gt;
+* &lt;input type="week"&gt;
 
 
 
