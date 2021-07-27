@@ -34,6 +34,7 @@ for a much easier re-use, since you have all of your forms into a central reposi
 Currently (2021-07-27) I'm collecting data and refining requirements, please feel free to comment about the whole idea ;)
 
 
+
 # What does it take to be done
 
 
@@ -78,5 +79,31 @@ Other tags for other form-elements will be added dinamically into the boilerplat
 
 
 Bootstrap includes support for all standard HTML form controls as well as __new HTML5 input types such as datetime, number, email, url, search, range, color, url, and so on.__
+
+
+
+__<input type="button">
+<input type="checkbox">
+<input type="color">
+<input type="date">
+<input type="datetime-local">
+<input type="email">
+<input type="file">
+<input type="hidden">
+<input type="image">
+<input type="month">
+<input type="number">
+<input type="password">
+<input type="radio">
+<input type="range">
+<input type="reset">
+<input type="search">
+<input type="submit">
+<input type="tel">
+<input type="text"> (default value)
+<input type="time">
+<input type="url">
+<input type="week">__
+
 
 
