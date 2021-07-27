@@ -39,7 +39,7 @@ Breaking down the main idea, we can see that we need to set-up the following com
 
 __1)__ a front-end to let the designer input the fields he needs and to define (sometime from combo-boxes and/or checkboxes, sometime by freely entering data) each field for both the TYPE of field and a number of basic but important other properties (name, label, size, hidden, others)
 
---2)__ a means of storing permantly the created forms.
+__2)__ a means of storing permantly the created forms.
 We can use a MySQL database where, for each new created form, an entire predifined table is created and populated with the specific parameters.
 An alternative solution could be having the database just pointing to a folder on hard disk, where output HTML form’s files are stored individually (something like pointing through db to images by link, rather than storing BLOBs).
 Although the second alternative seems attractive, in terms of simplicity, it doesn’t allow for future editing (this of course is still possible, but only editing directly the HTML file), while storing the created form as a table, would allow the designer to reload the table defining it, saving it with another table’s name and the editing it adding/removing/modifiying fields in a visual interactive way.
