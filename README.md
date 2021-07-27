@@ -40,7 +40,7 @@ Currently (2021-07-27) I'm collecting data and refining requirements, please fee
 
 Breaking down the main idea, we can see that we need to set-up the following components:
 
-__1)__ a front-end to let the designer input the fields he needs and to define (sometime from combo-boxes and/or checkboxes, sometime by freely entering data) each field for both the TYPE of field and a number of basic but important other properties (name, label, size, hidden, others)
+__1)__ a front-end to let the designer input the fields he needs and to define (sometime from combo-boxes and/or checkboxes, sometime by freely entering data) each field for both the TYPE of field and a number of basic but important other properties (__name, label, size, minlenght, maxlenght, pattern, hidden, others__)
 
 __2)__ a means of storing permantly the created forms.
 We can use a MySQL database where, for each new created form, an entire predifined table is created and populated with the specific parameters.
