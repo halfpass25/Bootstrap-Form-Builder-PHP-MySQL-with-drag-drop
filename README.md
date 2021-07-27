@@ -2,6 +2,8 @@
 # Bootstrap's Form Builder (PHP and  MySQL database)
 ### TABLE OF CONTENT ###
 
+[What does it take to be done](#what-does-it-take-to-be-done)
+
 ## ABSTRACT ##
 Building (coding) by hand HTML forms, regardless if HTML/CSS or Bootstrap “#” based, is an everyday need but it can be a tedious, cumbersome and some time dangerous activity (you can easily forget validation on a field or you can be wrong at stating validation rules, for instance).
 This holds expecially true when developing __MVP (Minimum Viable Product) web application__.
