@@ -29,7 +29,7 @@ SEND COMMENT/INQUIRY for later use in different application, without rewriting t
 In a principle, it should be possible to recall a given form setup from the database, edit it based on new requirements and finally ask the system
 to output the HTML code.
 I can here you "the edit can be done manually into HTML" and you are right but having the form stored into a db, will probably reduce typos and allows
-for a much easier re-use, since you have all of your forms into a central repository (the db).
+for a much easier re-use, since you have all of your already checked and tested forms into a central repository (the db).
 
 Currently (2021-07-27) I'm collecting data and refining requirements, please feel free to comment about the whole idea ;)
 
@@ -57,7 +57,7 @@ __5)__ as for future expansion/improvent, keeping the parameters as standard as 
 
 ### 1- The Front-End ###
  Since the amount of  required fields and type of form can vary each time, it is advisable to have the front-end being as simple as possible and less cluttered as possible.
-To achieve this goal, probably the best solution consists in using a “clonable row” (will require Jquery).
+To achieve this goal, probably the best solution consists in using a “clonable row” (will require JQuery).
 This will allow the designer to have the scrren populated only with the fields he creates/customize without a plethora of additional rows in the middle.
 Not only, but it will be possible both to add and/or remove each single row without impacting the automation of the form’s building.
 Each added row will be comprised of a number of field, to specify values for a given form-element’s attribute.
