@@ -83,6 +83,8 @@ Bootstrap includes support for all standard HTML form controls as well as __new
 
 
 
+### A list of all possible input "type" ###
+
 * &lt;input type="button"&gt;
 * &lt;input type="checkbox"&gt;
 * &lt;input type="color"&gt;
