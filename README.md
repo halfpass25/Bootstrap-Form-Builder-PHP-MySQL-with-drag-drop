@@ -60,6 +60,7 @@ To achieve this goal, probably the best solution consists in using a “clonable
 This will allow the designer to have the scrren populated only with the fields he creates/customize without a plethora of additional rows in the middle.
 Not only, but it will be possible both to add and/or remove each single row without impacting the automation of the form’s building.
 Each added row will be comprised of a number of field, to specify values for a given form-element’s attribute.
+A further improvement is a visual Drag & Drop interface that will allow for visual positioning of the input fields symbolic icons into a mock-up of the form.
 
 ### 2- The database ###
  The structure for the recurring table, can be defined only once Step 1 has been carried out and all form-elements attribute have been listed.
