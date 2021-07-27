@@ -77,6 +77,6 @@ The basic boilerplate therefore should probably include only HTML 5 tags, the op
 Other tags for other form-elements will be added dinamically into the boilerplateby means of the class methods.
 
 
-Bootstrap includes support for all standard HTML form controls as well as new HTML5 input types such as datetime, number, email, url, search, range, color, url, and so on. 
+Bootstrap includes support for all standard HTML form controls as well as __new HTML5 input types such as datetime, number, email, url, search, range, color, url, and so on.__
 
 
