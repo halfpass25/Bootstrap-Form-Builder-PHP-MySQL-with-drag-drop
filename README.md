@@ -82,12 +82,12 @@ Bootstrap includes support for all standard HTML form controls as well as __new
 
 
 
-&lt;input type="button"&gt;
-&lt;input type="checkbox"&gt;
-&lt;input type="color"&gt;
-&lt;input type="date"&gt;
-&lt;input type="datetime-local"&gt;
-&lt;input type="email"&gt;
+* &lt;input type="button"&gt;
+* &lt;input type="checkbox"&gt;
+* &lt;input type="color"&gt;
+* &lt;input type="date"&gt;
+* &lt;input type="datetime-local"&gt;
+* &lt;input type="email"&gt;
 &lt;input type="file"&gt;
 &i;input type="hidden"&gt;
 &lt;input type="image"&gt;
