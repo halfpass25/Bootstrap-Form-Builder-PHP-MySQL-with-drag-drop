@@ -1,5 +1,5 @@
 
-# Bootstrap's Form Builder (PHP and  MySQL database)
+# Bootstrap's Form Builder (PHP and  MySQL database)with Drag&Drop visual interface
 ### TABLE OF CONTENT ###
 1. [ABSTRACT](#abstract)
 2. [What does it take to be done](#what-does-it-take-to-be-done)
