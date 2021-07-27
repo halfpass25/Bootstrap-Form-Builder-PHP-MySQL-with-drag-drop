@@ -1,8 +1,9 @@
 
 # Bootstrap's Form Builder (PHP and  MySQL database)
 
+## ABSTRACT ##
 Building (coding) by hand HTML forms, regardless if HTML/CSS or Bootstrap “n” based, is an everyday need but it can be a tedious, cumbersome and some time dangerous activity (you can easily forget validation on a field or you can be wrong at stating validation rules, for instance).
-This holds expecially true when developing MVP (Minimum Viable Product) web application.
+This holds expecially true when developing __MVP (Minimum Viable Product) web application__.
 
 
 I'm trying to write a Bootstrap-form's Builder to ease and speed-up coding, particularly when producing prototypes
